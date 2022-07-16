@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yontmora
+- 👀 I’m interested in python, data science and big data.
+- 🌱 I’m currently learning artificial intelligence, mathematics and statistics
+- 💞️ I’m looking to collaborate on PHP, MySQL, SQL Server, Javascript and Python. 
+- 📫 How to reach me: yont.mora@gmail.com
